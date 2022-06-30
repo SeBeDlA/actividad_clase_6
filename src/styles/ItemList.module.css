@@ -1,0 +1,32 @@
+.item{
+  width: 30%;
+  border-radius: 25px;
+  background-color: cadetblue;
+  border: 1px solid #000;
+  height: 200px;
+  align-items: center;
+  margin: 0px 15px 25px 10px;
+  position: relative;
+  cursor: pointer;
+
+}
+
+.img{
+  height: 90px;
+}
+
+.detail{
+  display: flex;
+  justify-content: space-around;
+  /* padding: 0px 30px; */
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+
+.title{
+  font-size: 16px;
+}
+
+.informations{
+}

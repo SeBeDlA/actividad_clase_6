@@ -1,0 +1,16 @@
+.paginacion{
+  display: flex;
+  border: 1px solid #000;
+  width: fit-content;
+  margin: 0px 0px 10px 20px ;
+}
+
+.boton{
+  border: 1px solid #000;
+  width: 25px;
+  cursor: pointer
+}
+
+.boton:hover{
+  background-color: #cecece;
+}
